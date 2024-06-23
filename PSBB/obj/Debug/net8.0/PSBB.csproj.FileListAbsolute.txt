@@ -1,0 +1,15 @@
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\bin\Debug\net8.0\PSBB.exe
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\bin\Debug\net8.0\PSBB.deps.json
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\bin\Debug\net8.0\PSBB.runtimeconfig.json
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\bin\Debug\net8.0\PSBB.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\bin\Debug\net8.0\PSBB.pdb
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.AssemblyInfoInputs.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.AssemblyInfo.cs
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.csproj.CoreCompileInputs.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.sourcelink.json
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\refint\PSBB.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.pdb
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\PSBB.genruntimeconfig.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\PSBB\obj\Debug\net8.0\ref\PSBB.dll
