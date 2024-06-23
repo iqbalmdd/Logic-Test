@@ -1,0 +1,14 @@
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.AssemblyInfoInputs.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.AssemblyInfo.cs
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.csproj.CoreCompileInputs.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\bin\Debug\net8.0\SortCharacter.exe
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\bin\Debug\net8.0\SortCharacter.deps.json
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\bin\Debug\net8.0\SortCharacter.runtimeconfig.json
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\bin\Debug\net8.0\SortCharacter.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\bin\Debug\net8.0\SortCharacter.pdb
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\refint\SortCharacter.dll
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.pdb
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\SortCharacter.genruntimeconfig.cache
+D:\Software Enginer\Tes\Nawadata\LogicTest\SortCharacter\obj\Debug\net8.0\ref\SortCharacter.dll
